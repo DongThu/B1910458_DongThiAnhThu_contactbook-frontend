@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="page">
       <h4>Thêm Liên hệ</h4>
       <ContactForm
@@ -34,4 +34,4 @@
     },
   };
   </script>
-  
+   -->
