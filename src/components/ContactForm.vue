@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <Form v-if="contact != null" @submit="submitContact" :validation-schema="contactFormSchema">
     <div class="form-group">
       <label for="name">Tên</label>
@@ -184,4 +184,4 @@ export default {
 </script>
 <style scoped>
 @import "@/assets/form.css";
-</style> -->
+</style>
